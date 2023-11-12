@@ -39,7 +39,7 @@ highlight JrnlNope guifg=none guibg=none gui=none
 highlight JrnlSpoilers guibg=#000000
 highlight JrnlBoxActive guifg=#CBE697 gui=reverse
 highlight JrnlBoxQuestion guifg=#B283AF
-highlight JrnlBoxInfo guifg=#9CDBFC
+highlight JrnlBoxInfo guifg=#8dc07c
 highlight JrnlBoxSkipped guifg=#FB4A34
 highlight JrnlBoxDone gui=strikethrough guifg=#665c54
 highlight JrnlBoxStar guifg=#EEC476 gui=bold,reverse
@@ -49,7 +49,7 @@ highlight JrnlTagInBoxDone gui=bold,strikethrough guifg=#665c54
 highlight JrnlTagInBoxActive gui=bold,reverse guifg=#CBE697
 highlight JrnlTagInBoxQuestion gui=bold guifg=#B283AF
 highlight JrnlTagInBoxSkipped gui=bold guifg=#FB4A34
-highlight JrnlTagInBoxInfo gui=bold guifg=#9CDBFC
+highlight JrnlTagInBoxInfo gui=bold guifg=#8dc07c
 highlight JrnlTagInBoxImportant gui=bold,reverse guifg=#EA9073
 highlight JrnlTagInBoxStar guifg=#EEC476 gui=bold,reverse
 highlight JrnlTagInBoxEmpty gui=bold guifg=#FBBD2E
